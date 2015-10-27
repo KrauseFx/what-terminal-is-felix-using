@@ -15,5 +15,5 @@ Since I get asked this *every time* I tweet a picture of one of my tools, here's
 Add the `subl` command:
 
 ```
-ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+sudo mkdir -p "/usr/local/bin/" && ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
 ```
