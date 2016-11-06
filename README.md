@@ -19,3 +19,9 @@ Add the `subl` command:
 ```
 sudo mkdir -p "/usr/local/bin/" && ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
 ```
+
+----
+
+Also, check out [KrauseFx/dotfiles](https://github.com/KrauseFx/dotfiles) for the dot files I'm using 🚀
+
+----
