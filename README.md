@@ -14,6 +14,7 @@ Since I get asked this *every time* I tweet a picture of one of my tools, here's
 - I use [z](https://github.com/rupa/z) an amazing tool to quickly jump between projects. Like [Alfred](https://www.alfredapp.com/) but for your Terminal reduced to folder search only
 - I use the `subl .` command a lot to quickly open a specific folder in Sublime Text. This is what I use to edit my `fastlane` configuration
 - `echo "gem: --no-document" >> ~/.gemrc` to stop installing docs every time you install a gem
+- I use `o .` or `o filename.js` to open files (see [KrauseFx/dotfiles](https://github.com/KrauseFx/dotfiles))
 
 Add the `subl` command:
 
