@@ -16,12 +16,6 @@ Since I get asked this *every time* I tweet a picture of one of my tools, here's
 - `echo "gem: --no-document" >> ~/.gemrc` to stop installing docs every time you install a gem
 - I use `o .` or `o filename.js` to open files (see [KrauseFx/dotfiles](https://github.com/KrauseFx/dotfiles))
 
-Add the `subl` command:
-
-```
-sudo mkdir -p "/usr/local/bin/" && ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
-```
-
 ----
 
 Also, check out [KrauseFx/dotfiles](https://github.com/KrauseFx/dotfiles) for the dot files I'm using 🚀
