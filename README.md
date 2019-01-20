@@ -16,6 +16,7 @@ Since I get asked this *every time* I tweet a picture of one of my tools, here's
 - `echo "gem: --no-document" >> ~/.gemrc` to stop installing docs every time you install a gem
 - I use `o .` or `o filename.js` to open files (see [KrauseFx/dotfiles](https://github.com/KrauseFx/dotfiles))
 - Settings -> Profiles -> Keys -> Load Preset -> Natural Text Editing
+- Enable the `Show proxy icon in window title bar` option to show the folder on the window title bar for right click and drag & drop gestures
 
 ----
 
