@@ -18,6 +18,7 @@ Since I get asked this *every time* I tweet a picture of one of my tools, here's
 - Settings -> Profiles -> Keys -> Load Preset -> Natural Text Editing
 - Enable the `Show proxy icon in window title bar` option to show the folder on the window title bar for right click and drag & drop gestures
 - `Profiles` -> `Advanced` -> `Semantic History` -> `Open with editor...` -> `Sublime Text 3`
+- `Keys` -> Replace `Cycle Tabs ...` with `Next Tab` and `Previous Tab`
 
 ----
 
