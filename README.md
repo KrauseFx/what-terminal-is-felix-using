@@ -18,6 +18,7 @@ Since I get asked this *every time* I tweet a picture of one of my tools, here's
   - `sudo python setup.py install`
 - I use the [Meslo Powerline Font](https://github.com/powerline/fonts/blob/master/Meslo%20Slashed/Meslo%20LG%20M%20Regular%20for%20Powerline.ttf) as you need a font that supports the directory characters for `powerline`
 - I use [z](https://github.com/rupa/z) an amazing tool to quickly jump between projects. Like [Alfred](https://www.alfredapp.com/) but for your Terminal reduced to folder search only
+- [Install Powerlevel10](https://github.com/romkatv/powerlevel10k#oh-my-zsh)
 - I use the `subl .` command a lot to quickly open a specific folder in Sublime Text. This is what I use to edit my `fastlane` configuration
 - `echo "gem: --no-document" >> ~/.gemrc` to stop installing docs every time you install a gem
 - I use `o .` or `o filename.js` to open files (see [KrauseFx/dotfiles](https://github.com/KrauseFx/dotfiles))
